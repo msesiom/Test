@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <v1:externalPersons xmlns:v1="v1.external-person.base-uk.pure.atira.dk" xmlns:commons="v3.commons.pure.atira.dk">
-	<v1:externalPerson id="10151771" type="externalperson/externalperson" managedInPure="false">
+	<v1:externalPerson id="10151771" type="externalperson" managedInPure="false">
 		
 		<v1:name>
 			<!-- First and last name -->
