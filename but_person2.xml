@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<v1:externalPersons xmlns:v1="v1.external-person.base-uk.pure.atira.dk" xmlns:commons="v3.commons.pure.atira.dk">
+	<v1:externalPerson id="10151772" type="externalperson" managedInPure="false">
+		
+		<v1:name>
+			<!-- First and last name -->
+			<commons:firstname>CIELO 2</commons:firstname>
+			<commons:lastname>LEY VALENCIA</commons:lastname>
+		</v1:name>
+		<!-- The external persons gender-->
+		<v1:gender>unknown</v1:gender>
+		<!-- Any ids related to the external person, the type need to be present in /dk/atira/pure/externalperson/externalpersonsources classification scheme -->
+		<v1:ids>
+			<commons:id type="but_id">1112</commons:id>
+		</v1:ids>
+	</v1:externalPerson>
+</v1:externalPersons>
